@@ -1,0 +1,4 @@
+com/example/exercise02spring/model/entities/Book.class
+com/example/exercise02spring/persistance/repositories/BookRepository.class
+com/example/exercise02spring/Exercise02SpringApplication.class
+com/example/exercise02spring/services/BookService.class

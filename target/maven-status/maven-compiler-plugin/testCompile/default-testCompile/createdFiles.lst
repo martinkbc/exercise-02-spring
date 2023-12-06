@@ -1,0 +1,3 @@
+com/example/exercise02spring/Exercise02SpringApplicationTests.class
+com/example/exercise02spring/persistance/repositories/BookRepositoryTest.class
+com/example/exercise02spring/services/BookServiceTest.class
